@@ -24,5 +24,9 @@ test
 >>>>>>> fc802c0 (official test 1)
 
 
+<<<<<<< HEAD
 test2dsfasdfasdfdafsdf
 dfadsfasdfasdf
+=======
+test2dsfasdfasdfdafsdfdsfadsfasdfasdf
+>>>>>>> fd83da9 (testererwersre)
